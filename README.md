@@ -1,0 +1,1 @@
+Repo for my Ruby solutions for [Advent of Code 2021](https://adventofcode.com/2021/day/2/answer). I started working in Ruby this year and figured this would be a fun way to learn more about it.
